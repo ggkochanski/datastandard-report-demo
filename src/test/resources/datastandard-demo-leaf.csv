@@ -1,0 +1,6 @@
+Category Name, Attribute Name, Description, Type, Groups
+Root, String Value*, , string, All
+Leaf, Composite Value, Composite Value Description, "composite{
+  Nested Value*: integer
+}[]", "All
+Complex"
